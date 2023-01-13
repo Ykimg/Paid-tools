@@ -184,7 +184,7 @@ def main_apv():
  
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
  
-        os.system('am start https://wa.me/+8801612278337?text=' + tks)
+        os.system('am start https://wa.me/+923189141630?text=' + tks)
  
         
  
